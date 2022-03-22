@@ -550,6 +550,131 @@
       ],
       "indirect": false,
       "globalContextsFilePath": "",
+      "codeComponents": [],
+      "jsBundleThemes": []
+    },
+    {
+      "projectId": "9WqxVqG68BmDdoC5M3n3qB",
+      "projectApiToken": "TaovityrYgUmqEEdOet7PgMTQp5v0l8nDNrca8tKOnDwjBhLc3bqWSMlBNjyYvP09sc76ichC7rGxfmb2vBQg",
+      "projectName": "Copy of Starter Blog - Primary Copy",
+      "version": "latest",
+      "cssFilePath": "plasmic/copy_of_starter_blog_primary_copy/plasmic_copy_of_starter_blog_primary_copy.module.css",
+      "components": [
+        {
+          "id": "mzuwSuLvTk0G3",
+          "name": "Home",
+          "type": "managed",
+          "projectId": "9WqxVqG68BmDdoC5M3n3qB",
+          "renderModuleFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicHome.jsx",
+          "importSpec": {
+            "modulePath": "../pages/index.jsx"
+          },
+          "cssFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicHome.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "tD8zdSRpzXthy",
+          "name": "HomeHeader",
+          "type": "managed",
+          "projectId": "9WqxVqG68BmDdoC5M3n3qB",
+          "renderModuleFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicHomeHeader.jsx",
+          "importSpec": {
+            "modulePath": "HomeHeader.jsx"
+          },
+          "cssFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicHomeHeader.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "YDCYq6Ih0h7RX",
+          "name": "ListItem",
+          "type": "managed",
+          "projectId": "9WqxVqG68BmDdoC5M3n3qB",
+          "renderModuleFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicListItem.jsx",
+          "importSpec": {
+            "modulePath": "ListItem.jsx"
+          },
+          "cssFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicListItem.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "5-O8kuvmAsrbp",
+          "name": "Footer",
+          "type": "managed",
+          "projectId": "9WqxVqG68BmDdoC5M3n3qB",
+          "renderModuleFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicFooter.jsx",
+          "importSpec": {
+            "modulePath": "Footer.jsx"
+          },
+          "cssFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicFooter.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "6bkUkZkFCo5gV",
+          "name": "Post",
+          "type": "managed",
+          "projectId": "9WqxVqG68BmDdoC5M3n3qB",
+          "renderModuleFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicPost.jsx",
+          "importSpec": {
+            "modulePath": "../pages/post.jsx"
+          },
+          "cssFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicPost.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        },
+        {
+          "id": "knNE2Lb4pp2wc",
+          "name": "PostHeader",
+          "type": "managed",
+          "projectId": "9WqxVqG68BmDdoC5M3n3qB",
+          "renderModuleFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicPostHeader.jsx",
+          "importSpec": {
+            "modulePath": "PostHeader.jsx"
+          },
+          "cssFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicPostHeader.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "JdRW8IijYIt4-",
+          "name": "AuthorBio",
+          "type": "managed",
+          "projectId": "9WqxVqG68BmDdoC5M3n3qB",
+          "renderModuleFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicAuthorBio.jsx",
+          "importSpec": {
+            "modulePath": "AuthorBio.jsx"
+          },
+          "cssFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicAuthorBio.module.css",
+          "scheme": "blackbox",
+          "componentType": "component"
+        },
+        {
+          "id": "eWjeG7HdRP",
+          "name": "Billie",
+          "type": "managed",
+          "projectId": "9WqxVqG68BmDdoC5M3n3qB",
+          "renderModuleFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicBillie.jsx",
+          "importSpec": {
+            "modulePath": "../pages/billie.jsx"
+          },
+          "cssFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicBillie.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [
+        {
+          "id": "twVw3cd5jNWPH",
+          "name": "PlasmicLogoIcon",
+          "moduleFilePath": "plasmic/copy_of_starter_blog_primary_copy/icons/PlasmicIcon__PlasmicLogo.jsx"
+        }
+      ],
+      "images": [],
+      "indirect": false,
+      "globalContextsFilePath": "",
       "codeComponents": []
     }
   ],
@@ -560,6 +685,12 @@
         "name": "Screen",
         "projectId": "vrXCB8dxA4nVS6MjHefASJ",
         "contextFilePath": "plasmic/blank_project/PlasmicGlobalVariant__Screen.jsx"
+      },
+      {
+        "id": "dKOMptgAizopL",
+        "name": "Screen",
+        "projectId": "9WqxVqG68BmDdoC5M3n3qB",
+        "contextFilePath": "plasmic/copy_of_starter_blog_primary_copy/PlasmicGlobalVariant__Screen.jsx"
       }
     ]
   },

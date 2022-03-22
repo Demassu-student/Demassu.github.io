@@ -1,0 +1,29 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  width: 100%;
+  position: relative;
+  min-width: 0;
+}
+.link {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+}
+.slotTargetBlogTitle {
+  font-family: "Montserrat", sans-serif;
+  font-size: var(--token-b6qUwo6E1NJ-Y);
+  font-weight: 900;
+}
+.slotTargetPostTitle {
+  font-family: "Montserrat", sans-serif;
+  font-size: var(--token-WdYYlXErnvPXf);
+  font-weight: 900;
+}
+.slotTargetDate {
+  font-size: var(--token-JJm7TgsOTgrml);
+}
