@@ -38,6 +38,12 @@ function PlasmicCoCreate__RenderFunc(props) {
     <React.Fragment>
       <Head>
         <meta name="twitter:card" content="summary" />
+        <title key="title">{"Jenius CoCreate Revamp Competition"}</title>
+        <meta
+          key="og:title"
+          property="og:title"
+          content={"Jenius CoCreate Revamp Competition"}
+        />
       </Head>
 
       <style>{`

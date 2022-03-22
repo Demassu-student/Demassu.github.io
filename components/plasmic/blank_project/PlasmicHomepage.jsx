@@ -77,7 +77,7 @@ function PlasmicHomepage__RenderFunc(props) {
             sty.root
           )}
         >
-          <div
+          <nav
             data-plasmic-name={"header"}
             data-plasmic-override={overrides.header}
             className={classNames(projectcss.all, sty.header)}
@@ -249,7 +249,7 @@ function PlasmicHomepage__RenderFunc(props) {
                 </div>
               </p.Stack>
             </div>
-          </div>
+          </nav>
 
           <div
             data-plasmic-name={"dropdownHeaderNavigation"}
@@ -462,11 +462,19 @@ function PlasmicHomepage__RenderFunc(props) {
                       className={classNames(projectcss.all, sty.button6)}
                     >
                       <p.Stack
-                        as={"div"}
+                        as={p.PlasmicLink}
                         data-plasmic-name={"buttonBase5"}
                         data-plasmic-override={overrides.buttonBase5}
                         hasGap={true}
-                        className={classNames(projectcss.all, sty.buttonBase5)}
+                        className={classNames(
+                          projectcss.all,
+                          projectcss.a,
+                          sty.buttonBase5
+                        )}
+                        component={Link}
+                        href={"#selection_work"}
+                        platform={"nextjs"}
+                        target={"_blank"}
                       >
                         <div
                           data-plasmic-name={"text5"}
@@ -751,6 +759,7 @@ function PlasmicHomepage__RenderFunc(props) {
                 data-plasmic-override={overrides.frame149}
                 hasGap={true}
                 className={classNames(projectcss.all, sty.frame149)}
+                id={"selection_work"}
               >
                 <div
                   className={classNames(
@@ -2171,7 +2180,7 @@ function PlasmicHomepage__RenderFunc(props) {
             </p.Stack>
           </div>
 
-          <div
+          <footer
             data-plasmic-name={"footer"}
             data-plasmic-override={overrides.footer}
             className={classNames(projectcss.all, sty.footer)}
@@ -2266,7 +2275,7 @@ function PlasmicHomepage__RenderFunc(props) {
                 </p.Stack>
               </p.Stack>
             </p.Stack>
-          </div>
+          </footer>
         </p.Stack>
       </div>
     </React.Fragment>

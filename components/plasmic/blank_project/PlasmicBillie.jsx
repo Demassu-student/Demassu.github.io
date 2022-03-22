@@ -38,6 +38,12 @@ function PlasmicBillie__RenderFunc(props) {
     <React.Fragment>
       <Head>
         <meta name="twitter:card" content="summary" />
+        <title key="title">{"Billie - A personal budgeting app"}</title>
+        <meta
+          key="og:title"
+          property="og:title"
+          content={"Billie - A personal budgeting app"}
+        />
       </Head>
 
       <style>{`
