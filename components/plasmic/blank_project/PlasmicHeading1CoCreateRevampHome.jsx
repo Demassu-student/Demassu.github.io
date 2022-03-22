@@ -41,7 +41,7 @@ function PlasmicHeading1CoCreateRevampHome__RenderFunc(props) {
         sty.root
       )}
       component={Link}
-      href={"/pages/cocreate.jsx"}
+      href={"/cocreate"}
       platform={"nextjs"}
       target={"_blank"}
     >
