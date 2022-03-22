@@ -48,7 +48,7 @@
           "projectId": "vrXCB8dxA4nVS6MjHefASJ",
           "renderModuleFilePath": "plasmic/blank_project/PlasmicCoCreate.jsx",
           "importSpec": {
-            "modulePath": "../pages/pages/cocreate.jsx"
+            "modulePath": "../pages/pages/cocreate.jsx.jsx"
           },
           "cssFilePath": "plasmic/blank_project/PlasmicCoCreate.module.css",
           "scheme": "blackbox",
@@ -61,7 +61,7 @@
           "projectId": "vrXCB8dxA4nVS6MjHefASJ",
           "renderModuleFilePath": "plasmic/blank_project/PlasmicBillie.jsx",
           "importSpec": {
-            "modulePath": "../pages/pages/billie.jsx"
+            "modulePath": "../pages/pages/billie.jsx.jsx"
           },
           "cssFilePath": "plasmic/blank_project/PlasmicBillie.module.css",
           "scheme": "blackbox",

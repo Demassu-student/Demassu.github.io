@@ -41,7 +41,7 @@ function PlasmicHeading1BillieHome__RenderFunc(props) {
         sty.root
       )}
       component={Link}
-      href={"/pages/billie"}
+      href={"/pages/billie.jsx"}
       platform={"nextjs"}
       target={"_blank"}
     >
