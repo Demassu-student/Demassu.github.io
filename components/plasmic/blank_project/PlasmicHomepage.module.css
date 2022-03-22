@@ -2589,6 +2589,7 @@
   display: block !important;
   top: 394px;
   left: 107px;
+  border-radius: 800px;
 }
 .img__qSkXs > picture > img {
   object-fit: cover;
@@ -2882,6 +2883,7 @@
   display: block !important;
   top: -1017px;
   left: 516px;
+  border-radius: 800px;
 }
 .img__tkAo3 > picture > img {
   object-fit: cover;
