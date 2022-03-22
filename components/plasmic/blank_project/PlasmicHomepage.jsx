@@ -475,6 +475,7 @@ function PlasmicHomepage__RenderFunc(props) {
                         href={"#selection_work"}
                         platform={"nextjs"}
                         target={undefined}
+                        title={""}
                       >
                         <div
                           data-plasmic-name={"text5"}

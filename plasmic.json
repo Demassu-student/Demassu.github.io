@@ -61,7 +61,7 @@
           "projectId": "vrXCB8dxA4nVS6MjHefASJ",
           "renderModuleFilePath": "plasmic/blank_project/PlasmicBillie.jsx",
           "importSpec": {
-            "modulePath": "../pages/billie/[slug].jsx"
+            "modulePath": "../pages/billie.jsx"
           },
           "cssFilePath": "plasmic/blank_project/PlasmicBillie.module.css",
           "scheme": "blackbox",
